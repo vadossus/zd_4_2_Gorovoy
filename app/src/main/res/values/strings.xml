@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Madventure</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="sign_in">Войти</string>
+    <string name="my_quests">Мои задачи</string>
+    <string name="details">Детали</string>
+</resources>
